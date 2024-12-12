@@ -118,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -131,32 +131,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAIsAAAAAAAAAAAAYwHkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T03:20:59.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20241209081805_InitialCreate.cs",
-              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Migrations\\20241209081805_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241209081805_InitialCreate.cs",
-              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Migrations\\20241209081805_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20241209081805_InitialCreate.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T03:20:51.944Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -296,6 +270,32 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T04:15:40.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241209081805_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Migrations\\20241209081805_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241209081805_InitialCreate.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Migrations\\20241209081805_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241209081805_InitialCreate.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:20:51.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAYwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:20:59.855Z",
               "EditorCaption": ""
             },
             {
