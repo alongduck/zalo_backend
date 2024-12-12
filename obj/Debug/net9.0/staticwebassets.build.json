@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "tnBQ+WN96D+mLrUYuLS7xJetP3L1V4xzlQXJmMcwm3k=",
+  "Source": "zalo_server",
+  "BasePath": "_content/zalo_server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

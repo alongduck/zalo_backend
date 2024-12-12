@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skyeagle\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skyeagle\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skyeagle\\graphql\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skyeagle\\graphql\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skyeagle\\graphql\\input\\userinputtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skyeagle\\graphql\\input\\userinputtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skyeagle\\graphql\\type\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skyeagle\\graphql\\type\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skymodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skymodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skyeagle\\graphql\\input\\categoryinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skyeagle\\graphql\\input\\categoryinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\migrations\\20241209081805_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:migrations\\20241209081805_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skyeagle\\graphql\\appschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skyeagle\\graphql\\appschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skyeagle\\graphql\\input\\productinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skyeagle\\graphql\\input\\productinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skymodel\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skymodel\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skymodel\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skymodel\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skyeagle\\graphql\\type\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skyeagle\\graphql\\type\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skyeagle\\graphql\\input\\detailinputtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skyeagle\\graphql\\input\\detailinputtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\zalo_server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:zalo_server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skyeagle\\graphql\\type\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skyeagle\\graphql\\type\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skymodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skymodel\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skyeagle\\graphql\\type\\detailtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skyeagle\\graphql\\type\\detailtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skymodel\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skymodel\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\controllers\\detailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:controllers\\detailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\zalo_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:zalo_server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAYwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:20:59.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241209081805_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Migrations\\20241209081805_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241209081805_InitialCreate.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Migrations\\20241209081805_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20241209081805_InitialCreate.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:20:51.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Type\\UserType.cs",
+              "RelativeDocumentMoniker": "SkyEagle\\GraphQL\\Type\\UserType.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Type\\UserType.cs",
+              "RelativeToolTip": "SkyEagle\\GraphQL\\Type\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:23:27.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserInputType.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Input\\UserInputType.cs",
+              "RelativeDocumentMoniker": "SkyEagle\\GraphQL\\Input\\UserInputType.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Input\\UserInputType.cs",
+              "RelativeToolTip": "SkyEagle\\GraphQL\\Input\\UserInputType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:32:08.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:20:25.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryType.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Type\\CategoryType.cs",
+              "RelativeDocumentMoniker": "SkyEagle\\GraphQL\\Type\\CategoryType.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Type\\CategoryType.cs",
+              "RelativeToolTip": "SkyEagle\\GraphQL\\Type\\CategoryType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:19:32.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyModel\\Category.cs",
+              "RelativeDocumentMoniker": "SkyModel\\Category.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyModel\\Category.cs",
+              "RelativeToolTip": "SkyModel\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:15:11.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mutation.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Mutation.cs",
+              "RelativeDocumentMoniker": "SkyEagle\\GraphQL\\Mutation.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Mutation.cs",
+              "RelativeToolTip": "SkyEagle\\GraphQL\\Mutation.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAYwGQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:02:09.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Type\\ProductType.cs",
+              "RelativeDocumentMoniker": "SkyEagle\\GraphQL\\Type\\ProductType.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Type\\ProductType.cs",
+              "RelativeToolTip": "SkyEagle\\GraphQL\\Type\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:19:51.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppSchema.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\AppSchema.cs",
+              "RelativeDocumentMoniker": "SkyEagle\\GraphQL\\AppSchema.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\AppSchema.cs",
+              "RelativeToolTip": "SkyEagle\\GraphQL\\AppSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:18:43.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryInput.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Input\\CategoryInput.cs",
+              "RelativeDocumentMoniker": "SkyEagle\\GraphQL\\Input\\CategoryInput.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Input\\CategoryInput.cs",
+              "RelativeToolTip": "SkyEagle\\GraphQL\\Input\\CategoryInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:03:05.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyModel\\User.cs",
+              "RelativeDocumentMoniker": "SkyModel\\User.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyModel\\User.cs",
+              "RelativeToolTip": "SkyModel\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:15:10.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Query.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Query.cs",
+              "RelativeDocumentMoniker": "SkyEagle\\GraphQL\\Query.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Query.cs",
+              "RelativeToolTip": "SkyEagle\\GraphQL\\Query.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:15:40.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyModel\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SkyModel\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyModel\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SkyModel\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:44:42.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetailInputType.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Input\\DetailInputType.cs",
+              "RelativeDocumentMoniker": "SkyEagle\\GraphQL\\Input\\DetailInputType.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Input\\DetailInputType.cs",
+              "RelativeToolTip": "SkyEagle\\GraphQL\\Input\\DetailInputType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:10:05.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyModel\\Product.cs",
+              "RelativeDocumentMoniker": "SkyModel\\Product.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyModel\\Product.cs",
+              "RelativeToolTip": "SkyModel\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:15:09.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductInput.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Input\\ProductInput.cs",
+              "RelativeDocumentMoniker": "SkyEagle\\GraphQL\\Input\\ProductInput.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Input\\ProductInput.cs",
+              "RelativeToolTip": "SkyEagle\\GraphQL\\Input\\ProductInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:09:37.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA1wDQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:47:17.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "zalo_server.http",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\zalo_server.http",
+              "RelativeDocumentMoniker": "zalo_server.http",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\zalo_server.http",
+              "RelativeToolTip": "zalo_server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-07T04:53:21.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T08:24:14.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Detail.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyModel\\Detail.cs",
+              "RelativeDocumentMoniker": "SkyModel\\Detail.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyModel\\Detail.cs",
+              "RelativeToolTip": "SkyModel\\Detail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:15:08.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DetailType.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Type\\DetailType.cs",
+              "RelativeDocumentMoniker": "SkyEagle\\GraphQL\\Type\\DetailType.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Type\\DetailType.cs",
+              "RelativeToolTip": "SkyEagle\\GraphQL\\Type\\DetailType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:04:09.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": ".env",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T08:20:34.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DetailController.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Controllers\\DetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DetailController.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Controllers\\DetailController.cs",
+              "RelativeToolTip": "Controllers\\DetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:14:40.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:15:48.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:14:43.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "zalo_server.csproj",
+              "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\zalo_server.csproj",
+              "RelativeDocumentMoniker": "zalo_server.csproj",
+              "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\zalo_server.csproj",
+              "RelativeToolTip": "zalo_server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T04:33:45.877Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
