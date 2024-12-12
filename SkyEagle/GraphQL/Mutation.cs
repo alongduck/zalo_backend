@@ -81,33 +81,38 @@ namespace zalo_server.SkyEagle.GraphQL
                     return Category;
                 }
             );
-                Field<UserType>(
-           "createUser",
-           arguments: new QueryArguments(
-               new QueryArgument<NonNullGraphType<UserInputType>> { Name = "user" }
+            Field<UserType>(
+  "createUser",
+  arguments: new QueryArguments(
+      new QueryArgument<NonNullGraphType<UserInputType>> { Name = "user" }
+  ),
+  resolve: context =>
+  {
+      var userInput = context.GetArgument<User>("user");
 
-           ),
-           resolve: context =>
-           {
-               var userInput = context.GetArgument<User>("user");
+      // Kiểm tra xem User đã tồn tại chưa
+      var existingUser = dbContext.Users.FirstOrDefault(u => u.UID == userInput.UID);
+      if (existingUser != null)
+      {
+          context.Errors.Add(new ExecutionError("User already exists with the provided UID."));
+          return existingUser; // Hoặc trả về null nếu muốn không trả về gì
+      }
 
+      // Tạo mới User nếu chưa tồn tại
+      var user = new User
+      {
+          Name = userInput.Name,
+          SDT = userInput.SDT,
+          UID = userInput.UID,
+          Avatar = userInput.Avatar,
+      };
+      dbContext.Users.Add(user);
+      dbContext.SaveChanges();
 
-               // Create the product detail
-               var user = new User
-               {
-              
-                   Name = userInput.Name,
-                   SDT = userInput.SDT,
-                   UID = userInput.UID,
-                   Avatar = userInput.Avatar,
+      return user;
+  }
+);
 
-               };
-               dbContext.Users.Add(user);
-               dbContext.SaveChanges();
-
-               return user;
-           }
-       );
             Field<BooleanGraphType>(
     "deleteCategory",
     arguments: new QueryArguments(

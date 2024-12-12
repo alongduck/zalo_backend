@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zalo_server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d8b9fd22ade8c3de90e58a1c7bb2220f0e40c83")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ccd8481ec2130c15ff76e95d195f7acd88c7e7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("zalo_server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zalo_server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

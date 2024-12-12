@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\skyeagle\\graphql\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:skyeagle\\graphql\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D56A5ED6-78E6-42F0-A41F-D70E94CADC5D}|zalo_server.csproj|d:\\mini_app_bao_tri\\zalo_backend\\zalo_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -138,13 +138,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-12T05:40:36.31Z",
               "EditorCaption": ""
@@ -183,8 +183,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T04:20:25.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T04:20:25.055Z"
             },
             {
               "$type": "Document",
@@ -212,13 +211,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Mutation.cs",
               "DocumentMoniker": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Mutation.cs",
               "RelativeDocumentMoniker": "SkyEagle\\GraphQL\\Mutation.cs",
               "ToolTip": "D:\\Mini_App_Bao_Tri\\Zalo_Backend\\zalo_server\\SkyEagle\\GraphQL\\Mutation.cs",
               "RelativeToolTip": "SkyEagle\\GraphQL\\Mutation.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T06:02:09.387Z",
               "EditorCaption": ""
@@ -281,8 +280,7 @@
               "RelativeToolTip": "SkyEagle\\GraphQL\\Query.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T04:15:40.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T04:15:40.873Z"
             },
             {
               "$type": "Document",
